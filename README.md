@@ -1,1 +1,1 @@
-# clockJavaScript
+## <i>Patika.dev</i> profilime [buradan](https://app.patika.dev/ozkardes) ulaşabilirsiniz.
